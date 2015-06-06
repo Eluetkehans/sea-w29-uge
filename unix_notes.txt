@@ -31,7 +31,6 @@ git add -a
 git commit -m "Initialize unix_notes.txt"
 
 # Add a file to the git stage to be saved in the next commit
-
 git add unix_notes.txt
 
 # Initialize a git repository
@@ -39,10 +38,15 @@ git init
 # Used to display hidden directories
 ls -a
 
+# Show present working directory
 pwd
+
 history | less
 clear
+
+# Show manual
 man history
+
 history -l
 history #calls the history of what you have written
 cd ...
