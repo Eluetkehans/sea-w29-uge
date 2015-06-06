@@ -1,0 +1,329 @@
+pwd
+history | less
+clear
+man history
+history -l
+history #calls the history of what you have written
+cd ...
+cd
+ls
+cd ..
+cd /
+ls /..
+ls .. #list the contents of the parent directory
+
+cd Desktop/programming/python/
+cd ..
+cd Desktop/programming/python/../..
+cd
+ls
+cd programming/
+ls
+pwd
+# /home/erik/Desktop/
+cd Desktop/
+ls
+LS
+ls
+pwd
+cd
+cd /
+cd ~
+man ls
+ls -D
+ls -d
+ls -lrt
+ls -rt
+ls -r
+ls -lt
+ls -l
+ls -t
+pwd
+ls
+git config --global user.email
+git --version
+sudo apt-get install git
+apt-get install git
+git update
+which which is which #Silly nonsense that actually calls it up
+which which
+which git
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+
+# Set tagged email for git commits
+
+git config --global user.email 'eluetekhans@gmail.com'
+git config --global user.name 'Erik Luetkehans'
+subl /ect/paths
+echo $PATH
+echo $path
+subl
+which subl
+which sublime
+echo $EDITOR
+subl ~/.config/fish/config.fish
+which fish
+sudo apt-get check
+fish_update_completions
+clear
+curl -fsSL http://git.io/beJs | ruby
+sudo apt-get install ruby
+whi
+chsh -s /usr/bin/fish
+sudo apt-get install fish
+ls -a
+which chrome
+which nano
+which python3
+which python
+uname
+curl -fsSL http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+google-chrome-stable
+python3
+sudo python3 setup.py
+cd pygame/
+hg clone https://bitbucket.org/pygame/pygame
+cd ~/Downloads/Python-3.4.3/
+sudo apt-get install libsmpeg-dev
+sudo apt-get install libfreetype6-dev
+sudo apt-get install libavformat-dev libswscale-dev
+sudo apt-get install libsdl-mixer1.2-dev libportmidi-dev
+sudo apt-get install libsdl-ttf2.0-dev  libsdl-image1.2-dev
+sudo apt-get install libasound2-doc libglib2.0-doc python3-dev
+sudo apt-get install mercurial libsdl1.2-dev
+python
+cd python
+cd programming/
+cd Desktop/
+cd~
+sublime
+sudo ln -sfn opt/sublime_text_2/sublime_text sublime
+cd /bin
+sudo ln -sfn /opt/sublime_text_2/sublime_text sublime
+ln -sfn /opt/sublime_text_2/sublime_text sublime
+
+# Enter the sublime text directory
+
+cd sublime_text_2/
+cd opt
+cd ..
+cd Python-3.4.3/
+cd Downloads/
+sudo make install
+make test
+make
+./configure
+
+# Quit out of a program
+
+exit
+sublime_text
+sudo ln -s /opt/sublime\ text\ 2/sublime_text /usr/bin/sublime
+quit
+sudo ln -s /opt/Sublime\ Text\ 2/sublime_text /usr/bin/sublime
+find sublime
+grep sublime .
+grep . sublime
+grep sublime
+cd bin
+cd /user/bin
+sudo ln -s /opt/Sublime_Text_2/sublime_text /usr/bin/sublime
+find Sublime
+find znew
+sudo apt-get install sublime-text
+sudo apt-get update
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+sudo apt-get-repository ppa:webupd8team/sublime-text-2
+rm -r Sublime\ Text\ 2/
+cd Desktop/programming/
+cd python fun
+mkdir python fun
+apt-get update
+apt-get update python
+sudo apt-get python2.x
+apt-get install python2.x
+app-get install python2.x
+man get-app
+get-app install python2.x
+q
+dir
+div
+dr
+rm emptytext
+rm -r .git
+git init
+cd Public/
+nano
+echo
+cd public
+
+# Launches google chrome from the term.
+
+google-chrome-stable
+chrome
+ls ./Public
+ls -l
+man dir
+less moving_around.txt
+dir
+error
+clear
+ls moving_around.txt
+subl moving_around.txt
+grep 'moving' ls
+ls
+history > moving_around.txt
+pwd
+history | less
+man history
+history -l
+history
+cd ...
+cd
+ls
+cd ..
+cd /
+ls /..
+ls ..
+cd Desktop/programming/python/
+cd ..
+cd Desktop/programming/python/../..
+cd
+ls
+cd programming/
+ls
+pwd
+# /home/erik/Desktop/
+cd Desktop/
+ls
+LS
+ls
+pwd
+cd
+cd /
+cd ~
+man ls
+ls -D
+ls -d
+ls -lrt
+ls -rt
+ls -r
+ls -lt
+ls -l
+ls -t
+pwd
+ls
+git config --global user.email
+git --version
+sudo apt-get install git
+apt-get install git
+git update
+which which is which
+which which
+which git
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'eluetekhans@gmail.com'
+git config --global user.name 'Erik Luetkehans'
+subl /ect/paths
+echo $PATH
+echo $path
+subl
+which subl
+which sublime
+echo $EDITOR
+subl ~/.config/fish/config.fish
+which fish
+sudo apt-get check
+fish_update_completions
+clear
+curl -fsSL http://git.io/beJs | ruby
+sudo apt-get install ruby
+whi
+chsh -s /usr/bin/fish
+sudo apt-get install fish
+ls -a
+which chrome
+which nano
+which python3
+which python
+uname
+curl -fsSL http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+google-chrome-stable
+python3
+sudo python3 setup.py
+cd pygame/
+hg clone https://bitbucket.org/pygame/pygame
+cd ~/Downloads/Python-3.4.3/
+sudo apt-get install libsmpeg-dev
+sudo apt-get install libfreetype6-dev
+sudo apt-get install libavformat-dev libswscale-dev
+sudo apt-get install libsdl-mixer1.2-dev libportmidi-dev
+sudo apt-get install libsdl-ttf2.0-dev  libsdl-image1.2-dev
+sudo apt-get install libasound2-doc libglib2.0-doc python3-dev
+sudo apt-get install mercurial libsdl1.2-dev
+python
+cd python
+cd programming/
+cd Desktop/
+cd~
+sublime
+sudo ln -sfn opt/sublime_text_2/sublime_text sublime
+cd /bin
+sudo ln -sfn /opt/sublime_text_2/sublime_text sublime
+ln -sfn /opt/sublime_text_2/sublime_text sublime
+cd sublime_text_2/
+cd opt
+cd ..
+cd Python-3.4.3/
+cd Downloads/
+sudo make install
+make test
+make
+./configure
+exit
+sublime_text
+sudo ln -s /opt/sublime\ text\ 2/sublime_text /usr/bin/sublime
+quit
+sudo ln -s /opt/Sublime\ Text\ 2/sublime_text /usr/bin/sublime
+find sublime
+grep sublime .
+grep . sublime
+grep sublime
+cd bin
+cd /user/bin
+sudo ln -s /opt/Sublime_Text_2/sublime_text /usr/bin/sublime
+find Sublime
+find znew
+sudo apt-get install sublime-text
+sudo apt-get update
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+sudo apt-get-repository ppa:webupd8team/sublime-text-2
+rm -r Sublime\ Text\ 2/
+cd Desktop/programming/
+cd python fun
+mkdir python fun
+apt-get update
+apt-get update python
+sudo apt-get python2.x
+apt-get install python2.x
+app-get install python2.x
+man get-app
+get-app install python2.x
+q
+dir
+div
+dr
+rm emptytext
+rm -r .git
+git init
+cd Public/
+nano
+echo
+cd public
+google-chrome-stable
+chrome
+ls ./Public
