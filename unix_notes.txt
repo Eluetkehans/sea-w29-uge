@@ -24,6 +24,7 @@ git commit -m "Add one silly comment"
 
 # Check the status of git. What is being tracked? What is not being tracked?
 
+# Shows git status
 git status
 
 # Add all files to the stage
