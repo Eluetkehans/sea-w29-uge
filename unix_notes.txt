@@ -6,6 +6,9 @@ history -l
 history #calls the history of what you have written
 cd ...
 cd
+
+# List, list, baby.
+
 ls
 cd ..
 cd /
