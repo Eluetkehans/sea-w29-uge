@@ -1,3 +1,41 @@
+history | less
+
+#Check existing git branches
+git branch
+
+#change to different branch
+git checkout git-notes
+
+# Create a new branch called git-notes
+git branch git-notes
+
+# Look up flags for git commit
+man git commit
+
+# Commit a change and add a comment
+git commit -m "Add comment about ls -a"
+git add -A
+subl unix_notes.txt
+
+# Look at the history of your commits
+git log
+
+git commit -m "Add one silly comment"
+
+# Check the status of git. What is being tracked? What is not being tracked?
+
+git status
+
+# Add all files to the stage
+git add -a
+git commit -m "Initialize unix_notes.txt"
+
+# Add a file to the git stage to be saved in the next commit
+
+git add unix_notes.txt
+
+# Initialize a git repository
+git init
 # Used to display hidden directories
 ls -a
 
